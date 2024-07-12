@@ -40,7 +40,7 @@ This project demonstrates the application of supervised learning techniques to s
 ## Analysis
 
 
-#### *Patient condition Analysis
+### *Patient condition Analysis
 
 
 ![health](https://github.com/user-attachments/assets/cbb038f1-01b9-4480-9dcf-87a6b1be934d)
@@ -54,7 +54,7 @@ This project demonstrates the application of supervised learning techniques to s
 **F1-Score:** 0.85
 
 
-#### *Credit Card Loan Analysis
+### *Credit Card Loan Analysis
 
 ![supervised](https://github.com/user-attachments/assets/48a67840-0b4e-4e27-a4b2-200443ac7282)
 
