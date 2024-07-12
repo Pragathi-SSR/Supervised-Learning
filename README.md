@@ -43,7 +43,7 @@ This project demonstrates the application of supervised learning techniques to s
 #### *Patient condition Analysis
 
 
-![health](https://github.com/user-attachments/assets/b44afae8-da63-4861-ba37-2b7cfd315bbb)
+![health](https://github.com/user-attachments/assets/cbb038f1-01b9-4480-9dcf-87a6b1be934d)
 
 - Models with hyper parameter tuning using GridSerachCV  are giving good Preciison, Recall, Accuracy and F1_score.
 - Most of the data features are correlated with each other.
